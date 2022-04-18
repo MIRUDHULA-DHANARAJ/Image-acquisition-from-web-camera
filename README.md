@@ -122,7 +122,7 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-![output] (webcampic.png)
+![output](webcampic.PNG)
 
 
 ### ii) Display the video
