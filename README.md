@@ -126,8 +126,7 @@ cv2.destroyAllWindows()
 
 
 ### ii) Display the video
-</br>
-</br>
+![output](webcampic2.png)
 
 
 ### iii) Display the video by resizing the window
