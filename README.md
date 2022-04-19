@@ -126,18 +126,16 @@ cv2.destroyAllWindows()
 
 
 ### ii) Display the video
-![output](webcampic2.png)
+![output](webcampic.png)
 
 
 ### iii) Display the video by resizing the window
-</br>
-</br>
+![output](webcamer2.png)
 
 
 
 ### iv) Rotate and display the video
-</br>
-</br>
+![output](webcamer1.png)
 
 
 
