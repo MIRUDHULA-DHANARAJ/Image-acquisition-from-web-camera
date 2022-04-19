@@ -135,7 +135,7 @@ cv2.destroyAllWindows()
 
 
 ### iv) Rotate and display the video
-![output](webcamer1.png)
+![output](wecamer1.png)
 
 
 
